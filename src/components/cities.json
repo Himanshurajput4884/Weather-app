@@ -298,5 +298,390 @@
         "state": "Karnataka",
         "lat": "15.364708",
         "lon": "75.123955"
+    },
+    {
+        "name": "Bareilly",
+        "state": "Uttar Pradesh",
+        "lat": "28.35",
+        "lon": "79.416667"
+    },
+    {
+        "name": "Moradabad",
+        "state": "Uttar Pradesh",
+        "lat": "28.833333",
+        "lon": "78.783333"
+    },
+    {
+        "name": "Mysore",
+        "state": "Karnataka",
+        "lat": "12.307222",
+        "lon": "76.649722"
+    },
+    {
+        "name": "Gurgaon",
+        "state": "Haryana",
+        "lat": "27.6928",
+        "lon": "79.6766"
+    },
+    {
+        "name": "Aligarh",
+        "state": "Uttar Pradesh",
+        "lat": "27.883333",
+        "lon": "78.083333"
+    },
+    {
+        "name": "Jalandhar",
+        "state": "Punjab",
+        "lat": "23.9",
+        "lon": "78.433333"
+    },
+    {
+        "name": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "lat": "10.805",
+        "lon": "78.685556"
+    },
+    {
+        "name": "Bhubaneswar",
+        "state": "Orissa",
+        "lat": "20.233333",
+        "lon": "85.833333"
+    },
+    {
+        "name": "Salem",
+        "state": "Tamil Nadu",
+        "lat": "15.7",
+        "lon": "73.916667"
+    },
+    {
+        "name": "Mira-Bhayandar",
+        "state": "Maharashtra",
+        "lat": "19.295233",
+        "lon": "72.854390\t"
+    },
+    {
+        "name": "Warangal",
+        "state": "Telangana",
+        "lat": "18",
+        "lon": "79.583333"
+    },
+    {
+        "name": "Thiruvananthapuram",
+        "state": "Kerala",
+        "lat": "8.506944",
+        "lon": "76.956944"
+    },
+    {
+        "name": "Guntur",
+        "state": "Andhra Pradesh",
+        "lat": "16.3",
+        "lon": "80.45"
+    },
+    {
+        "name": "Bhiwandi",
+        "state": "Maharashtra",
+        "lat": "19.3",
+        "lon": "73.066667"
+    },
+    {
+        "name": "Saharanpur",
+        "state": "Uttar Pradesh",
+        "lat": "29.966667",
+        "lon": "77.55"
+    },
+    {
+        "name": "Gorakhpur",
+        "state": "Uttar Pradesh",
+        "lat": "26.755",
+        "lon": "83.373889"
+    },
+    {
+        "name": "Bikaner",
+        "state": "Rajasthan",
+        "lat": "28.016667",
+        "lon": "73.3"
+    },
+    {
+        "name": "Amravati",
+        "state": "Maharashtra",
+        "lat": "20.933333",
+        "lon": "77.75"
+    },
+    {
+        "name": "Noida",
+        "state": "Uttar Pradesh",
+        "lat": "28.5726442",
+        "lon": "77.3547609"
+    },
+    {
+        "name": "Jamshedpur",
+        "state": "Jharkhand",
+        "lat": "22.8",
+        "lon": "86.183333"
+    },
+    {
+        "name": "Bhilai",
+        "state": "Chhattisgarh",
+        "lat": "21.216667",
+        "lon": "81.433333"
+    },
+    {
+        "name": "Cuttack",
+        "state": "Orissa",
+        "lat": "20.5",
+        "lon": "85.833333"
+    },
+    {
+        "name": "Firozabad",
+        "state": "Uttar Pradesh",
+        "lat": "27.15",
+        "lon": "78.416667"
+    },
+    {
+        "name": "Kochi",
+        "state": "Kerala",
+        "lat": "9.966667",
+        "lon": "76.233333"
+    },
+    {
+        "name": "Bhavnagar",
+        "state": "Gujarat",
+        "lat": "21.766667",
+        "lon": "72.15"
+    },
+    {
+        "name": "Dehradun",
+        "state": "Uttarakhand",
+        "lat": "30.3255646",
+        "lon": "78.0436813"
+    },
+    {
+        "name": "Durgapur",
+        "state": "West Bengal",
+        "lat": "24.75",
+        "lon": "87.733333"
+    },
+    {
+        "name": "Asansol",
+        "state": "West Bengal",
+        "lat": "24.233333",
+        "lon": "87.283333"
+    },
+    {
+        "name": "Nanded",
+        "state": "Maharashtra",
+        "lat": "19.15",
+        "lon": "77.333333"
+    },
+    {
+        "name": "Kolhapur",
+        "state": "Maharashtra",
+        "lat": "16.7",
+        "lon": "74.216667"
+    },
+    {
+        "name": "Ajmer",
+        "state": "Rajasthan",
+        "lat": "26.45",
+        "lon": "74.633333"
+    },
+    {
+        "name": "Gulbarga",
+        "state": "Karnataka",
+        "lat": "17.333333",
+        "lon": "76.833333"
+    },
+    {
+        "name": "Jamnagar",
+        "state": "Gujarat",
+        "lat": "22.466667",
+        "lon": "70.066667"
+    },
+    {
+        "name": "Ujjain",
+        "state": "Madhya Pradesh",
+        "lat": "23.183333",
+        "lon": "75.766667"
+    },
+    {
+        "name": "Loni",
+        "state": "Uttar Pradesh",
+        "lat": "28.75",
+        "lon": "77.283333"
+    },
+    {
+        "name": "Siliguri",
+        "state": "West Bengal",
+        "lat": "26.716111",
+        "lon": "88.423611"
+    },
+    {
+        "name": "Jhansi",
+        "state": "Uttar Pradesh",
+        "lat": "25.433333",
+        "lon": "78.583333"
+    },
+    {
+        "name": "Ulhasnagar",
+        "state": "Maharashtra",
+        "lat": "19.216667",
+        "lon": "73.15"
+    },
+    {
+        "name": "Nellore",
+        "state": "Andhra Pradesh",
+        "lat": "14.433333",
+        "lon": "79.966667"
+    },
+    {
+        "name": "Sangli-Miraj & Kupwad",
+        "state": "Maharashtra",
+        "lat": "16.860446",
+        "lon": "74.565518"
+    },
+    {
+        "name": "Belgaum",
+        "state": "Karnataka",
+        "lat": "15.866667",
+        "lon": "74.5"
+    },
+    {
+        "name": "Mangalore",
+        "state": "Karnataka",
+        "lat": "12.863889",
+        "lon": "74.835278"
+    },
+    {
+        "name": "Ambattur",
+        "state": "Tamil Nadu",
+        "lat": "13.076667",
+        "lon": "80.088611"
+    },
+    {
+        "name": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "lat": "8.733333",
+        "lon": "77.7"
+    },
+    {
+        "name": "Malegaon",
+        "state": "Maharashtra",
+        "lat": "20.55",
+        "lon": "74.533333"
+    },
+    {
+        "name": "Jalgaon",
+        "state": "Maharashtra",
+        "lat": "21.048611",
+        "lon": "76.534444"
+    },
+    {
+        "name": "Udaipur",
+        "state": "Rajasthan",
+        "lat": "26.6978",
+        "lon": "79.9216"
+    },
+    {
+        "name": "Maheshtala",
+        "state": "West Bengal",
+        "lat": "22.508621",
+        "lon": "88.2532182"
+    },
+    {
+        "name": "Tirupur",
+        "state": "Tamil Nadu",
+        "lat": "11.1",
+        "lon": "77.35"
+    },
+    {
+        "name": "Davanagere",
+        "state": "Karnataka",
+        "lat": "14.4596984",
+        "lon": "75.9289654951128"
+    },
+    {
+        "name": "Kozhikode",
+        "state": "Kerala",
+        "lat": "11.25",
+        "lon": "75.766667"
+    },
+    {
+        "name": "Kurnool",
+        "state": "Andhra Pradesh",
+        "lat": "15.833333",
+        "lon": "78.05"
+    },
+    {
+        "name": "Rajpur Sonarpur",
+        "state": "West Bengal",
+        "lat": "22.449089",
+        "lon": "88.391473"
+    },
+    {
+        "name": "Bokaro",
+        "state": "Jharkhand",
+        "lat": "23.783333",
+        "lon": "85.966667"
+    },
+    {
+        "name": "South Dumdum",
+        "state": "West Bengal",
+        "lat": "22.610000",
+        "lon": "88.400000"
+    },
+    {
+        "name": "Bellary",
+        "state": "Karnataka",
+        "lat": "15.15",
+        "lon": "76.933333"
+    },
+    {
+        "name": "Patiala",
+        "state": "Punjab",
+        "lat": "30.326667",
+        "lon": "76.400278"
+    },
+    {
+        "name": "Gopalpur",
+        "state": "West Bengal",
+        "lat": "24.833333",
+        "lon": "87.8"
+    },
+    {
+        "name": "Agartala",
+        "state": "Tripura",
+        "lat": "23.836389",
+        "lon": "91.275"
+    },
+    {
+        "name": "Bhagalpur",
+        "state": "Bihar",
+        "lat": "26.169722",
+        "lon": "83.872778"
+    },
+    {
+        "name": "Muzaffarnagar",
+        "state": "Uttar Pradesh",
+        "lat": "29.466667",
+        "lon": "77.683333"
+    },
+    {
+        "name": "Bhatpara",
+        "state": "West Bengal",
+        "lat": "22.871389",
+        "lon": "88.408889"
+    },
+    {
+        "name": "Panihati",
+        "state": "West Bengal",
+        "lat": "22.694167",
+        "lon": "88.374444"
+    },
+    
+    {
+        "name": "Rohtak",
+        "state": "Haryana",
+        "lat": "28.9",
+        "lon": "76.566667"
     }
 ]
