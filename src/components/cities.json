@@ -162,12 +162,6 @@
         "lon": "75.5925"
     },
     {
-        "name": "Kalyan-Dombivali",
-        "state": "Maharashtra",
-        "lat": "19.235433",
-        "lon": "73.129889"
-    },
-    {
         "name": "Vasai-Virar",
         "state": "Maharashtra",
         "lat": "19.4258788",
@@ -294,12 +288,6 @@
         "lon": "75.916667"
     },
     {
-        "name": "Hubballi-Dharwad",
-        "state": "Karnataka",
-        "lat": "15.364708",
-        "lon": "75.123955"
-    },
-    {
         "name": "Bareilly",
         "state": "Uttar Pradesh",
         "lat": "28.35",
@@ -364,12 +352,6 @@
         "state": "Telangana",
         "lat": "18",
         "lon": "79.583333"
-    },
-    {
-        "name": "Thiruvananthapuram",
-        "state": "Kerala",
-        "lat": "8.506944",
-        "lon": "76.956944"
     },
     {
         "name": "Guntur",

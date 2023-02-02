@@ -76,7 +76,6 @@ function FrontPage() {
       <select className="form-select form-select-lg mb-3" aria-label=".form-select-lg example"
         
         onChange={(e) => {
-          console.log("e.target.value", e.target.value);
           setvalue(e.target.value);
         }}
       >

@@ -1,5 +1,4 @@
 import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
 function ColorSchemesExample() {
@@ -7,7 +6,9 @@ function ColorSchemesExample() {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="/">Weather</Navbar.Brand>
+          <Navbar.Brand href="/" >
+            Weather
+          </Navbar.Brand>
         </Container>
       </Navbar>
 
